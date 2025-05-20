@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: hsy2001/jenkins-kaniko:4
+        image: hsy2001/jenkins-kaniko:5
         ports:
         - containerPort: 8080
